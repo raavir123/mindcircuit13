@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: raavir16/dockerhub33:4
+        image: raavir16/dockerhub33:5
         ports:
         - containerPort: 8080
 
